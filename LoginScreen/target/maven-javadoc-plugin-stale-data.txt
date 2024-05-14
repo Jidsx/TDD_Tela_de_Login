@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/jeani/OneDrive/Documentos/NetBeansProjects/LoginScreen/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jeani/OneDrive/Documentos/NetBeansProjects/LoginScreen/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LoginScreen 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LoginScreen 1.0-SNAPSHOT API'
+calculadora.loginscreen
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\src\main\java = 1715563914868
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\allclasses-index.html = 1715655060483
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\allpackages-index.html = 1715655060487
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\copy.svg = 1715655060540
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\element-list = 1715655060426
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\help-doc.html = 1715655060522
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\index-all.html = 1715655060507
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\index.html = 1715655060514
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\jquery-ui.overrides.css = 1715655060561
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\member-search-index.js = 1715655060495
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\module-search-index.js = 1715655060490
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\overview-tree.html = 1715655060464
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\package-search-index.js = 1715655060492
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\script.js = 1715655060533
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\search-page.js = 1715655060546
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\search.html = 1715655060511
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\search.js = 1715655060544
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\stylesheet.css = 1715655060529
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\tag-search-index.js = 1715655060496
+C:\Users\jeani\OneDrive\Documentos\NetBeansProjects\LoginScreen\target\site\apidocs\type-search-index.js = 1715655060493
